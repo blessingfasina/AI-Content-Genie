@@ -1,0 +1,13 @@
+{
+    "name": "blessing-fasina/ai-content-genie",
+    "description": "An AI-powered content generator for WordPress.",
+    "type": "wordpress-plugin",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AIContentGenie\\": "includes/"
+        }
+    }
+}
