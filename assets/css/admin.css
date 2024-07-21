@@ -1,0 +1,25 @@
+/* Basic admin page styles */
+#ai-content-genie-form {
+    margin-top: 20px;
+}
+
+#ai-content-genie-form label {
+    font-size: 16px;
+    display: block;
+    margin-top: 10px;
+}
+
+#ai-content-genie-form input,
+#ai-content-genie-form select {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 10px;
+}
+
+#ai-content-genie-form input[type="checkbox"] {
+    width: auto;
+}
+
+#ai-content-result {
+    margin-top: 20px;
+}
